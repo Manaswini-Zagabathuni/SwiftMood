@@ -1,22 +1,22 @@
-# 🎵 SwiftMood
+#  SwiftMood
 
 > A Taylor Swift mood-based song recommendation chatbot, powered by Claude AI.
 
-SwiftMood is an AI-powered web app that recommends Taylor Swift songs based on your current mood or emotions. Just tell it how you're feeling — in words — and it'll match you with the perfect songs from Taylor's entire discography.
+SwiftMood is an AI-powered web app that recommends Taylor Swift songs based on your current mood or emotions. Just tell it how you're feeling in words and it'll match you with the perfect songs from Taylor's entire discography.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 💬 Conversational mood input — describe feelings naturally
-- 🎵 Recommendations from all Taylor Swift eras (debut → TTPD)
-- 🏷️ Quick-pick mood chips for fast vibes
-- ✨ Song-by-song explanations with era context
-- 🌙 Beautiful, romantic UI inspired by Taylor's aesthetic
+-  Conversational mood input describe feelings naturally
+-  Recommendations from all Taylor Swift eras (debut → TTPD)
+-  Quick-pick mood chips for fast vibes
+-  Song-by-song explanations with era context
+-  Beautiful, romantic UI inspired by Taylor's aesthetic
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -47,8 +47,7 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 🏗️ Tech Stack
-
+##  Tech Stack
 | Layer      | Tech                        |
 |------------|-----------------------------|
 | Frontend   | React 18 + Vite             |
@@ -58,7 +57,7 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 swiftmood/
@@ -80,7 +79,7 @@ swiftmood/
 
 ---
 
-## 🔑 API Key
+##  API Key
 
 SwiftMood requires an Anthropic API key to function. You can get one at [console.anthropic.com](https://console.anthropic.com/).
 
@@ -88,12 +87,12 @@ SwiftMood requires an Anthropic API key to function. You can get one at [console
 
 ---
 
-## 🌸 Eras Covered
+##  Eras Covered
 
 Taylor Swift · Fearless · Speak Now · Red · 1989 · reputation · Lover · folklore · evermore · Midnights · The Tortured Poets Department
 
 ---
 
-## 📄 License
+##  License
 
 MIT — feel free to use, fork, and remix. And maybe listen to *All Too Well (10 Minute Version)* while you do. 🍂
