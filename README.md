@@ -7,7 +7,6 @@ SwiftMood is an AI-powered web app that recommends Taylor Swift songs based on y
 ---
 
 ##  Features
-
 -  Conversational mood input describe feelings naturally
 -  Recommendations from all Taylor Swift eras (debut → TTPD)
 -  Quick-pick mood chips for fast vibes
