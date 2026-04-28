@@ -3,7 +3,7 @@
 > A Taylor Swift mood-based song recommendation chatbot, powered by Claude AI.
 
 SwiftMood is an AI-powered web app that recommends Taylor Swift songs based on your current mood or emotions. Just tell it how you're feeling in words and it'll match you with the perfect songs from Taylor's entire discography.
- 
+  
 ---
 
 ##  Features
